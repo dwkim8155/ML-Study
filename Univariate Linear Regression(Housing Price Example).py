@@ -103,5 +103,3 @@ plt.ylabel('Price (in 1000s of dollars)')
 plt.legend()
 plt.show()
 
-
-
