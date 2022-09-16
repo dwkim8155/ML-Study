@@ -102,4 +102,3 @@ plt.xlabel('Size (1000 sqft)')
 plt.ylabel('Price (in 1000s of dollars)')
 plt.legend()
 plt.show()
-
