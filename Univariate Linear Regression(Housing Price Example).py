@@ -1,6 +1,5 @@
 # Univariate Linear Regression(Housing Price Example)
 
-from re import L
 import numpy as np
 import matplotlib.pyplot as plt
 plt.style.use('bmh')
